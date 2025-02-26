@@ -1,8 +1,8 @@
 <header>
 
 # Hello GitHub Actions
-
-_Create and run a GitHub Actions workflow._
+:white_check_mark:
+_Create and run a GitHub Actions workflow._ :computer:
 
 </header>
 
